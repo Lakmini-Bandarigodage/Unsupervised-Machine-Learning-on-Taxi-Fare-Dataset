@@ -1,1 +1,2 @@
 # Unsupervised-Machine-Learning-on-Taxi-Fare-Dataset
+The objective is to group taxi rides in New York City according to their fare amount in order to spot trends and outliers. In expenditure-based clustering, we can categorise the taxi drivers’ fares according to their distance through that, we are able to find count of passengers, fare amount per kilometre, pickup, dropoff locations within each cluster
